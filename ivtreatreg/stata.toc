@@ -2,4 +2,4 @@
 1
 2
 3
-p dea Data envelopment analysis
+p ivtreatreg Estimation (estimate) of binary treatment models with idiosyncratic average effect Use ivtreatreg With STATA 18
