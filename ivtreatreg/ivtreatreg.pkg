@@ -1,5 +1,4 @@
-d 'DEA': Data envelopment analysis
+d 'ivtreatreg': Estimation (estimate) of binary treatment models with idiosyncratic average effect Use ivtreatreg With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f ivtreatreg.ado
+f ivtreatreg.sthlp
