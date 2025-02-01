@@ -1,6 +1,8 @@
 # ivtreatreg
 Estimation (estimate) of binary treatment models with idiosyncratic average effect Use ivtreatreg With STATA 18
 
+https://www.youtube.com/watch?v=MRqfZz01n7c
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
